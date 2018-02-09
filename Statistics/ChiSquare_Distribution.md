@@ -1,1 +1,5 @@
-### Chi-Square Distribution
+## Chi-Square Distribution
+
+A = A + B
+fdsfdsafads   dsfads
+ 
