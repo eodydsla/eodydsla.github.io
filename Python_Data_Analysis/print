@@ -1,0 +1,11 @@
+# Format 함수의 활용
+
+x = 4
+y = 5
+z = x + y
+print("4 + 5 = {0:d}.".format(z))
+
+a = [1,2,3,4]
+b = ["first","second","thrid","fourth"]
+c = a + b
+print("{0},{1},{2}".format(a,b,c))
