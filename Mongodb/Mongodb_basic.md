@@ -14,14 +14,10 @@
 
 ### NOSQL 종류
 
+#### Key/Value Store
 * 대부분의 NoSQL은 Key/Value 개념을 지원
 * Unique Key에 하나의 Value를 가지는 형태
 * put(key,value), value := get(key) 형태의 API 사용
-
-|Key|Value|
-|Key|Value| 
-|Left Header|Center Header|Right Header|
-|:----------|:-----------:|-----------:|
 
 #### Ordered Key/Value Store
 
@@ -29,6 +25,13 @@
 * Key 안에 (column:value) 조합으로 된 여러개의 필드를 가지는 구조
 * 대표 제품 : Hbase, Cassandra
 
-put(key,value), value := get(key) 형태의 API 사용
+#### Document Key/Value Store
+
+* Key/Value Store의 확장된 형태
+* 저장되는 Value의 데이터 탕비으로 "Document"라는 구조화된 데이터 타입 (JSON, XML, YAML 등) 사용
+* 복잡한 계층 구조 표현 가능
+* 제품에 따라 추가 기능(sorting, join, grouping) 지원
+
+
 
 
