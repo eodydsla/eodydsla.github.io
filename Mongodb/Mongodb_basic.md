@@ -39,7 +39,7 @@
 ### NOSQL 데이터 모델링
 * 내가 가지고 있는 질문은 무었인가? ("What questions do I have? ")
 
-### NOSQL 장엄
+### NOSQL 장
 * 데이터 분산에 용이
 * join 연산 대부분 불가
 * 배열 형식 데이터 고속 처리
