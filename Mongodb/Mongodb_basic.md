@@ -59,11 +59,11 @@
 * Quary data volumn or IO per query VS total data volume
 * Processing complexity vs total data volume
 
+#### Aggregates
+* "유연한 스키마" 속성은 복잡하고 다양한 구조의 내부요소를 가지고 있는 데이터 클래스를 구성 가능하게함
+* 1:n 관계를 최소화하여 결과적으로 JOIN연산을 줄임 (수행 시간 단축, 저렴한 비용의 대용량 데이터 지원 가능)
+* 복잡하고 다양한 비즈니스 요소를 담을수 있음 (추후 확장성 및 변동성에 대한 유연한 대응 가능)
 
-#### NOSQL 장
-* 데이터 분산에 용이
-* join 연산 대부분 불가
-* 배열 형식 데이터 고속 처리
 
 #### NOSQL 단점
 * 운영 노하우가 적고 버그가 많음
