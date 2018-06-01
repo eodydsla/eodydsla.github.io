@@ -11,3 +11,15 @@
 * 분산형 구조를 띠고 있기 때문에 분산 시스템의 특징을 그대로 반영하고 CAP이론을 따름
 
 ![CAP](https://user-images.githubusercontent.com/36302012/40851895-a5d570de-6603-11e8-80dc-872bd0ea0428.png)!
+
+### NOSQL 종류
+
+* 대부분의 NoSQL은 Key/Value 개념을 지원
+* Unique Key에 하나의 Value를 가지는 형태
+* put(key,value), value := get(key) 형태의 API 사용
+
+| Key | Value
+| Key | Value
+
+
+
