@@ -21,5 +21,8 @@
 | Key | Value
 | Key | Value
 
-
+| First Header  | Second Header | Third Header         |
+| :------------ | :-----------: | -------------------: |
+| First row     | Data          | Very long data entry |
+| Second row    | **Cell**      | *Cell*               |
 
