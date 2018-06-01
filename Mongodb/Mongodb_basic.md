@@ -21,3 +21,13 @@
 | Key | Value |
 | Key | Value | 
 
+
+#### Ordered Key/Value Store
+
+* 데이터가 내부적으로 Key를 순서로 Sorting 되어 저장
+* Key 안에 (column:value) 조합으로 된 여러개의 필드를 가지는 구조
+* 대표 제품 : Hbase, Cassandra
+
+put(key,value), value := get(key) 형태의 API 사용
+
+
