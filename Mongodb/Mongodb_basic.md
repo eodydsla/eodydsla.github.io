@@ -19,6 +19,7 @@
 * Unique Key에 하나의 Value를 가지는 형태
 * put(key,value), value := get(key) 형태의 API 사용
 * 대표제품 : Redis
+
 #### Ordered Key/Value Store
 
 * 데이터가 내부적으로 Key를 순서로 Sorting 되어 저장
@@ -33,5 +34,9 @@
 * 제품에 따라 추가 기능(sorting, join, grouping) 지원
 * 대표제품 : MongoDB, CouchDB
 
+### NOSQL 장/단점
+#### NOSQL 데이터 모델링
+
+* 내가 가지고 있는 질문은 무었인가? ("What questions do I have? ")
 
 
