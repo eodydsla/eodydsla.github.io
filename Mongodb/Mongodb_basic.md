@@ -55,6 +55,9 @@
 * 비정규화 = 데이터 중복의 허용
 * 쿼리를 간단하게 하기 위해, 데이터를 특정한 모델에 맞추기 위해 같은 데이터를 여러번 도큐먼트나 테이블에 복제하여 중복하는 것을 허용
 
+#### 비정규화로 인한 트레이프 오프
+* Quary data volumn or IO per query VS total data volume
+* Processing complexity vs total data volume
 
 
 #### NOSQL 장
