@@ -20,7 +20,8 @@
 
 |Key|Value|
 |Key|Value| 
-
+|Left Header|Center Header|Right Header|
+|:----------|:-----------:|-----------:|
 
 #### Ordered Key/Value Store
 
