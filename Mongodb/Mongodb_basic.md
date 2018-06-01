@@ -10,4 +10,4 @@
 * 고성능 머신에 데이터를 저장하는것이 아닌,일반적인 서버 수십대를 연결해 데이터를 저장 및 처리 하는 구조
 * 분산형 구조를 띠고 있기 때문에 분산 시스템의 특징을 그대로 반영하고 CAP이론을 따름
 
-![CAP]https://user-images.githubusercontent.com/36302012/40851895-a5d570de-6603-11e8-80dc-872bd0ea0428.png!
+![CAP](https://user-images.githubusercontent.com/36302012/40851895-a5d570de-6603-11e8-80dc-872bd0ea0428.png!)
