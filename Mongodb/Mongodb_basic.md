@@ -18,11 +18,6 @@
 * Unique Key에 하나의 Value를 가지는 형태
 * put(key,value), value := get(key) 형태의 API 사용
 
-| Key | Value
-| Key | Value
-
-| First Header  | Second Header | Third Header         |
-| :------------ | :-----------: | -------------------: |
-| First row     | Data          | Very long data entry |
-| Second row    | **Cell**      | *Cell*               |
+| Key | Value |
+| Key | Value | 
 
