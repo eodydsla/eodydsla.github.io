@@ -18,7 +18,7 @@
 * 대부분의 NoSQL은 Key/Value 개념을 지원
 * Unique Key에 하나의 Value를 가지는 형태
 * put(key,value), value := get(key) 형태의 API 사용
-
+* 대표제품 : Redis
 #### Ordered Key/Value Store
 
 * 데이터가 내부적으로 Key를 순서로 Sorting 되어 저장
@@ -31,7 +31,7 @@
 * 저장되는 Value의 데이터 탕비으로 "Document"라는 구조화된 데이터 타입 (JSON, XML, YAML 등) 사용
 * 복잡한 계층 구조 표현 가능
 * 제품에 따라 추가 기능(sorting, join, grouping) 지원
-
+* 대표제품 : MongoDB, CouchDB
 
 
 
